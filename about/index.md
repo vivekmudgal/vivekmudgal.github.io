@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Vivek
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+ <center> I am a second year student persuing B.Tech in Electrical Engineering from Indian Institute of Technology  .</center>
 <!--
 ## Features
 * Minimal, you can focus on your content
