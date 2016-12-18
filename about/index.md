@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
- <center> I am a second year student persuing B.Tech in Electrical Engineering from Indian Institute of Technology  .</center>
+ <center> I am a second year student persuing B.Tech in Electrical Engineering from Indian Institute of Technology .</center>
 <!--
 ## Features
 * Minimal, you can focus on your content
