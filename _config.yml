@@ -4,7 +4,7 @@ bio:                'Electrical Engineering Undergraduate @ IIT Kharagpur.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/pro.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -31,7 +31,7 @@ disqus_shortname:   taylantatli
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:            vivekmudgal001
   #analytics:
   #verify:
   #ad-client:
@@ -42,7 +42,7 @@ email:		vivekmudgal001@iitkgp.ac.in
 facebook:           vivekmudgal10
 github:             vivekmudgal
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          vivekmudgal001
 #xing:              username
 instagram:          username
 #lastfm:            username
