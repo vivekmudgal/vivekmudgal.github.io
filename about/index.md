@@ -9,7 +9,7 @@ comments: false
 
 
 
-### _<center><font color="gray"> I am a second year student persuing B.Tech in Electrical Engineering from <a href="www.iitkgp.ac.in">IIT Kharagpur</a>.  My research interests lie in <b>Autonomus Robotics</b> and <b>Control Systems</b>. I have been recently introduced to Multi-robot system. </font> </center>_ 
+### _<center><font color="gray"> I am a second year student persuing B.Tech in Electrical Engineering from <a href="www.iitkgp.ac.in">IIT Kharagpur</a>.  My research interests lie in <b>Autonomus Robotics</b> and <b>Control Systems</b>. I have been recently introduced to Multi-robot system.</font> </center>_ 
 
 <!--
 ## Features
