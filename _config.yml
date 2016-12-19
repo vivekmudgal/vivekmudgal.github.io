@@ -5,7 +5,7 @@ description:        "I am a second year undergarduate at IIT Kharagpur student p
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/prof.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/kgp.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://vivekmudgal.in
