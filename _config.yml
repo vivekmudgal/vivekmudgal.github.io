@@ -4,7 +4,7 @@ bio:                'Undergraduate @ IIT Kharagpur'
 description:        "I am a second year undergarduate at IIT Kharagpur student persuing B.Tech in Electrical Engineering."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/img.jpg'
+logo:               'assets/img/img.jpeg'
 background:         'assets/img/kgp.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
